@@ -68,5 +68,5 @@ This work is part of the **SESG6039 – Composites Engineering Design and Mechan
 > **University**: University of Southampton  
 > **Year**: 2024  
 
-For more details, refer to the [assignment brief](Individual%20Assignment%201.pdf).
+For more details, refer to the [report](SESA6075%20Aircraft%20Propulsion%20CW1%20-%20Abhinandan%20Thour.pdf).
 
